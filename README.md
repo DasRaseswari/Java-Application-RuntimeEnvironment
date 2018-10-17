@@ -23,7 +23,7 @@ Runtime Environment Inc. will create a platform that will help achieve better st
 ### Role-based access:
 
 1.	Guests or Members can create accounts and access the whole system depending on their requirements, for example register for group classes, check their membership, enroll for events, pick trainers based on their profiles, order equipment etc.
-2.	Trainers (Master, Visiting or Regular) can upload profiles, view clientâ€™s schedule and progress and pick dates/availability for classes/sessions
+2.	Trainers (Master, Visiting or Regular) can upload profiles, view client's schedule and progress and pick dates/availability for classes/sessions
 3.	Super admin will manage organization details and admin will view dashboard (analytics), trainers and members, schedule, accounting, equipment and merchandise overview
 4.	Maintenance Manager will maintain the equipment and can report issues
 5.	Marketing Manager views the analytics and publishes promo codes
